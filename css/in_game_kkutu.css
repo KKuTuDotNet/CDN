@@ -653,7 +653,7 @@ iframe {
 .GameBox {
 	width: 1000px;
 	height: 410px;
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/gamebg.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/gamebg.png');
 }
 .GameBox .product-title {
 	height: 12px;
@@ -736,7 +736,7 @@ iframe {
 	font-weight: bold;
 	text-align: center;
 	text-shadow: 0px 1px 5px #141414;
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/lefthand.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/lefthand.png');
 }
 .jjoriping {
 	width: 500px;
@@ -898,7 +898,7 @@ iframe {
 	font-weight: bold;
 	text-align: center;
 	text-shadow: 0px 1px 5px #141414;
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/righthand.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/righthand.png');
 }
 .rounds {
 	margin-top: -130px;
@@ -1180,13 +1180,13 @@ iframe {
 	background-color: #333333;
 }
 .result-me-before-bar {
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/scorebar.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/scorebar.png');
 }
 .result-me-current-bar {
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/currentbar.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/currentbar.png');
 }
 .result-me-bonus-bar {
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/bonusbar.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/bonusbar.png');
 }
 .result-me-score-text {
 	margin-top: -32px;
@@ -1298,7 +1298,7 @@ iframe {
 	background-color: #333333;
 }
 .my-gauge .graph-bar {
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/scorebar.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/scorebar.png');
 }
 .my-gauge-text {
 	margin-top: -25px;
@@ -1472,13 +1472,13 @@ iframe {
 	margin: -1px -12px 0px -7px;
 	width: 20px;
 	height: 20px;
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/balloontip.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/balloontip.png');
 }
 .chat-balloon-bot {
 	margin: -1px -12px 0px 50px;
 	width: 20px;
 	height: 20px;
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/kkutu/balloonbot.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/kkutu/balloonbot.png');
 }
 #Chat {
 	width: 100%;

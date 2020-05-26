@@ -572,7 +572,7 @@ span {
 	font-size: 15px;
 	text-align: center;
 	color: #47330D;
-	background-image: url('https://cdn.jsdelivr.net/gh/KKuTuDotNet/CDN@latest/img/topbg.png');
+	background-image: url('https://cdn.jsdelivr.net/npm/kkutudotnet@latest/img/topbg.png');
 	background-color: #DEAF56;
 	transition: all 200ms ease;
 }
