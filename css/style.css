@@ -1252,7 +1252,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 #account-info {
 	float: right;
 	padding-top: 14px;
-	width: 80px;
+	width: 300px;
 	text-align: right;
 	text-overflow: ellipsis;
 	overflow: hidden;
