@@ -64,7 +64,7 @@
 	float: left;
 	margin: 2.5px 0px;
 	width: 200.5px;
-	height: 40px;
+	height: 35px;
 	font-size: 13px;
 	font-family: 'NanumSquare', 'NanumBarunGothic', 돋움;
 	cursor: pointer;
@@ -78,7 +78,7 @@ div#server-3 {}
 		.ss-p{ background-color: #EE3; }
 		.ss-q{ background-color: #F55; }
 		.ss-x{ background-color: #777; }
-	.server-name{width: 150px;font-size: 22px;}
+	.server-name{width: 150px;font-size: 21px;}
 		.server-people>label{position: unset;text-align: left;font-size: 14px;}
 	.server-stats{ width: 150px; font-size: 13px;}
 	    .st-g{ color: #0FF; }
