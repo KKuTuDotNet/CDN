@@ -56,33 +56,42 @@
 	color: #00ccff;
 	text-shadow: 0px 0px 2px #80e5ff;
 }
-.x-plan .users-name::before{ content: "[기획부]"; color: #ff0080; text-shadow: 0px 0px 2px #ff80bf; }
-.chat-item>.x-plan::before{ content: "[기획부]"; color: #ff0080; text-shadow: 0px 0px 2px #ff80bf; }
-.room-user-title>.x-plan::before{ content: "[기획부]"; color: #ff0080; text-shadow: 0px 0px 2px #ff80bf; }
 
-.x-ad .users-name::before{ content: "[홍보부]"; color: #ff0000; text-shadow: 0px 0px 2px #ff8080; }
-.chat-item>.x-ad::before{ content: "[홍보부]"; color: #ff0000; text-shadow: 0px 0px 2px #ff8080; }
-.room-user-title>.x-ad::before{ content: "[홍보부]"; color: #ff0000; text-shadow: 0px 0px 2px #ff8080; }
+.x-personnel .users-name::before{ content: "[인사]"; color: #ff0080; text-shadow: 0px 0px 2px #ff80bf; }
+.chat-item>.x-personnel::before{ content: "[인사]"; color: #ff0080; text-shadow: 0px 0px 2px #ff80bf; }
+.room-user-title>.x-personnel::before{ content: "[인사]"; color: #ff0080; text-shadow: 0px 0px 2px #ff80bf; }
 
-.x-user .users-name::before{ content: "[운영부]"; color: #ffcc00; text-shadow: 0px 0px 2px #ffe680; }
-.chat-item>.x-user::before{ content: "[운영부]"; color: #ffcc00; text-shadow: 0px 0px 2px #ffe680; }
-.room-user-title>.x-user::before{ content: "[운영부]"; color: #ffcc00; text-shadow: 0px 0px 2px #ffe680; }
+.x-mod .users-name::before{ content: "[운영]"; color: #ffcc00; text-shadow: 0px 0px 2px #ffe680; }
+.chat-item>.x-mod::before{ content: "[운영]"; color: #ffcc00; text-shadow: 0px 0px 2px #ffe680; }
+.room-user-title>.x-mod::before{ content: "[운영]"; color: #ffcc00; text-shadow: 0px 0px 2px #ffe680; }
 
-.x-word .users-name::before{ content: "[단어부]"; color: #3ccb34; text-shadow: 0px 0px 2px #9de59a; }
-.chat-item>.x-word::before{ content: "[단어부]"; color: #3ccb34; text-shadow: 0px 0px 2px #9de59a; }
-.room-user-title>.x-word::before{ content: "[단어부]"; color: #3ccb34; text-shadow: 0px 0px 2px #9de59a; }
+.x-word .users-name::before{ content: "[단어]"; color: #3ccb34; text-shadow: 0px 0px 2px #9de59a; }
+.chat-item>.x-word::before{ content: "[단어]"; color: #3ccb34; text-shadow: 0px 0px 2px #9de59a; }
+.room-user-title>.x-word::before{ content: "[단어]"; color: #3ccb34; text-shadow: 0px 0px 2px #9de59a; }
 
-.x-dev .users-name::before{ content: "[개발부]"; color: #ff6600; text-shadow: 0px 0px 2px #ffb380; }
-.chat-item>.x-dev::before{ content: "[개발부]"; color: #ff6600; text-shadow: 0px 0px 2px #ffb380; }
-.room-user-title>.x-dev::before{ content: "[개발부]"; color: #ff6600; text-shadow: 0px 0px 2px #ffb380; }
+.x-dev .users-name::before{ content: "[개발]"; color: #ff6600; text-shadow: 0px 0px 2px #ffb380; }
+.chat-item>.x-dev::before{ content: "[개발]"; color: #ff6600; text-shadow: 0px 0px 2px #ffb380; }
+.room-user-title>.x-dev::before{ content: "[개발]"; color: #ff6600; text-shadow: 0px 0px 2px #ffb380; }
 
-.x-music .users-name::before{ content: "[음악부]"; color: #cc00ff; text-shadow: 0px 0px 2px #e580ff; }
-.chat-item>.x-music::before{ content: "[음악부]"; color: #cc00ff; text-shadow: 0px 0px 2px #e580ff; }
-.room-user-title>.x-music::before{ content: "[음악부]"; color: #cc00ff; text-shadow: 0px 0px 2px #e580ff; }
+.x-media .users-name::before{ content: "[미디어]"; color: #cc00ff; text-shadow: 0px 0px 2px #e580ff; }
+.chat-item>.x-media::before{ content: "[미디어]"; color: #cc00ff; text-shadow: 0px 0px 2px #e580ff; }
+.room-user-title>.x-media::before{ content: "[미디어]"; color: #cc00ff; text-shadow: 0px 0px 2px #e580ff; }
 
-.x-design .users-name::before{ content: "[디자인부]"; color: #0040ff; text-shadow: 0px 0px 2px #809fff; }
-.chat-item>.x-design::before{ content: "[디자인부]"; color: #0040ff; text-shadow: 0px 0px 2px #809fff; }
-.room-user-title>.x-design::before{ content: "[디자인부]"; color: #0040ff; text-shadow: 0px 0px 2px #809fff; }
+.x-ad .users-name::before{ content: "[마케팅]"; color: #0040ff; text-shadow: 0px 0px 2px #809fff; }
+.chat-item>.x-ad::before{ content: "[마케팅]"; color: #0040ff; text-shadow: 0px 0px 2px #809fff; }
+.room-user-title>.x-ad::before{ content: "[마케팅]"; color: #0040ff; text-shadow: 0px 0px 2px #809fff; }
+
+.x-bj .users-name::before{ content: "[BJ]"; color: #001eff; text-shadow: 0px 0px 2px #7d8cff; }
+.chat-item>.x-bj::before{ content: "[BJ]"; color: #001eff; text-shadow: 0px 0px 2px #7d8cff; }
+.room-user-title>.x-bj::before{ content: "[BJ]"; color: #001eff; text-shadow: 0px 0px 2px #7d8cff; }
+
+.x-yt .users-name::before{ content: "[YT]"; color: #ff0030; text-shadow: 0px 0px 2px #ff9aad; }
+.chat-item>.x-yt::before{ content: "[YT]"; color: #ff0030; text-shadow: 0px 0px 2px #ff9aad; }
+.room-user-title>.x-yt::before{ content: "[YT]"; color: #ff0030; text-shadow: 0px 0px 2px #ff9aad; }
+
+.x-tw .users-name::before{ content: "[TW]"; color: #931ebe; text-shadow: 0px 0px 2px #eab3ff; }
+.chat-item>.x-tw::before{ content: "[TW]"; color: #931ebe; text-shadow: 0px 0px 2px #eab3ff; }
+.room-user-title>.x-tw::before{ content: "[TW]"; color: #931ebe; text-shadow: 0px 0px 2px #eab3ff; }
 
 .x-red_name {
 	color: #FF3333;
