@@ -364,6 +364,9 @@ iframe {
 #RoomInfoDiag .dialog-body div {
 	float: left;
 }
+#MsgDiag {
+	z-index: 6;
+}
 .ri-player {
 	margin: 2px 0px;
 	width: 100%;
